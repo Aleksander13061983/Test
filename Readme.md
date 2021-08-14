@@ -3,4 +3,6 @@
 Some description!!!
 
 
-Po usuniêciu w localnej wersji piszê jeszcze raz coœ. 
+Po usuniÃªciu w localnej wersji piszÃª jeszcze raz coÅ“. 
+
+Kolejna edycja. 
